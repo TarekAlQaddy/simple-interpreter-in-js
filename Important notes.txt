@@ -1,0 +1,12 @@
+always finish the line with semi colon ';', if not some mistakes would be occured. 
+
+all required operation are handled.
+
+if you want to see the value of a variable type
+variableName?;
+
+bounus operations:
+binary expression '==' returns true or false 
+unary expression '++' and '--'
+
+
